@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueDotNetHybridTest", "VueDotNetHybridTest\VueDotNetHybridTest.csproj", "{A7D50A70-536C-4D73-9E52-D087159AF228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D50A70-536C-4D73-9E52-D087159AF228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D50A70-536C-4D73-9E52-D087159AF228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D50A70-536C-4D73-9E52-D087159AF228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D50A70-536C-4D73-9E52-D087159AF228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5B2C7D-E059-4DDA-A038-4449C9451F11}
+	EndGlobalSection
+EndGlobal
